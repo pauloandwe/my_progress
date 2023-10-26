@@ -8,5 +8,5 @@
 
         console.log(fibonacci(2));
         console.log(fibonacci(4));
-        console.log(fibonacci(7));
+        console.log(fibonacci(6));
     
